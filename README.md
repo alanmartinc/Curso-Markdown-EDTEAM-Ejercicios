@@ -5,4 +5,5 @@
 - Encabezados, parrafos, listas
 - Imagenes y enlaces
 - Codigo
+- Texto
 - Tablas
